@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="Logos">
+    <file>fians.png</file>
+    <file>uat.png</file>
+  </qresource>
+  <qresource prefix="Numeros">
+    <file>amongBlanco.png</file>
+    <file>cinco.png</file>
+    <file>cuatro.png</file>
+    <file>dos.png</file>
+    <file>tres.png</file>
+    <file>uno.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>Imagenes/MicrosoftTeams-image.png</file>
+  </qresource>
+  <qresource prefix="uat">
+    <file>Imagenes/uat.png.opdownload</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>Imagenes/1237433-middle.png</file>
+    <file>Imagenes/2982950-middle.png</file>
+    <file>Imagenes/d.jpg</file>
+    <file>Imagenes/dassf.jpg</file>
+    <file>Imagenes/descarga (1).png</file>
+    <file>Imagenes/descarga.jfif</file>
+    <file>Imagenes/descarga.png</file>
+    <file>Imagenes/dg.png</file>
+    <file>Imagenes/images.jfif</file>
+    <file>Imagenes/spdr.png</file>
+  </qresource>
+</RCC>
